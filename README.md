@@ -1,9 +1,13 @@
-# Coffee Shop Management Software
+# Phần mềm Quản lý Quán Cà Phê
 
-## Description
+*Coffee Shop Management Software*
 
-This is a Windows-based desktop application developed using **C#**, **WPF**, and **SQL** to streamline the management of a coffee shop. The **Coffee Shop Management Software** provides a user-friendly interface for admins, cashiers, and staff to handle various operations such as menu management, order processing, employee management, billing, and revenue tracking. The application is designed to enhance efficiency, reduce errors, and improve the overall customer experience in a coffee shop environment.
+## Giới thiệu
 
+Đây là ứng dụng desktop chạy trên Windows, được phát triển bằng **C#**, **WPF**,  **SQL Sever** to streamline the management of a coffee shop. The **Coffee Shop Management Software** provides a user-friendly interface for admins, cashiers, and staff to handle various operations such as menu management, order processing, employee management, billing, and revenue tracking. The application is designed to enhance efficiency, reduce errors, and improve the overall customer experience in a coffee shop environment.
+giúp tối ưu hóa quy trình quản lý quán cà phê.
+
+Phần mềm cung cấp giao diện trực quan, hiện đại cho Admin, Thu ngân, Nhân viên pha chế nhằm xử lý các nghiệp vụ như:
 ---
 
 ## Related Repositories

@@ -32,19 +32,6 @@ Dự án là một ứng dụng độc lập được xây dựng phục vụ h�
 #### Quản lý Menu (Admin)
 [Menu Interface (Admin)](https://github.com/user-attachments/assets/xxxxxxx)
 
-#### Quản lý Nhân viên (Admin)
-![Menu Interface (Admin)](./media/employee.png)
-
-#### Thống kê doanh thu(Admin)
-![Revenue Statistics Interface](./media/statistic.png)
-
-#### Xử lý đơn hàng (Cashier)
-![Order Interface (Cashier)](./media/order.png)
-![Order Interface (Cashier)](./media/bill.png)
-![Order Interface (Cashier)](./media/detail.png)
-
-#### Giao diện pha chế (Bartender)
-![Order Interface (Cashier)](./media/kitchen.png)
 
 ---
 

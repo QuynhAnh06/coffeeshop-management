@@ -5,6 +5,7 @@
 ## Giới thiệu
 
 Đây là ứng dụng desktop chạy trên Windows, được phát triển bằng **C#**, **WPF**,  **SQL Sever**, nhằm tối ưu hóa toàn bộ quy trình vận hành của một quán cà phê.
+
 **Phần mềm Quản lý Quán Cà Phê** mang đến giao diện trực quan, dễ sử dụng cho **Admin**, **Thu ngân** và **Nhân viên pha chế**, hỗ trợ đầy đủ các nghiệp vụ như:
 - Quản lý menu sản phẩm  
 - Tạo và xử lý đơn hàng  

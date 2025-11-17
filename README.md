@@ -46,7 +46,7 @@ Dự án là một ứng dụng độc lập được xây dựng phục vụ h�
 
 ---
 
-###  năng chính
+###  Chức năng chính
 - **Đăng nhập & phân quyền người dùng:** đảm bảo bảo mật, mỗi vai trò (Admin, Thu ngân, Nhân viên) có quyền hạn và giao diện riêng.
 
 - **Quản lý Menu:** Thêm, sửa, xóa sản phẩm; phân loại đồ uống
@@ -81,7 +81,7 @@ Thực hiện các bước sau để thiết lập và chạy dự án trên má
 
 ---
 
-## Yêu cầu hệ thống
+### Yêu cầu hệ thống
 
 Bạn cần cài đặt trước:
 
@@ -90,9 +90,8 @@ Bạn cần cài đặt trước:
 - **SQL Server:** Dùng để quản lý cơ sở dữ liệu (ví dụ: SQL Server Express).
 - **Git:** Dùng để clone repository (tùy chọn).
 
----
 
-## Cài đặt
+### Cài đặt
 
 1. Clone dự án về máy của bạn (nếu repository khả dụng):
 
@@ -117,9 +116,7 @@ Bạn cần cài đặt trước:
    - Tạo một database mới trong **SQL Server Management Studio** (ví dụ: `CoffeeShopDB`).
    - Cập nhật chuỗi kết nối (connection string) trong file cấu hình của dự án (ví dụ: `App.config` hoặc `web.config`).
 
----
-
-## Cấu hình
+### Cấu hình
 
 1. Cấu hình kết nối cơ sở dữ liệu:
 

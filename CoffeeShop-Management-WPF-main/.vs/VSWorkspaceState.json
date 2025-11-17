@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoffeeShop",
+    "\\CoffeeShop\\Style",
+    "\\CoffeeShop\\View",
+    "\\CoffeeShop\\ViewModel",
+    "\\CoffeeShop\\ViewModel\\Admin",
+    "\\CoffeeShop\\View\\AdminView",
+    "\\Image",
+    "\\media",
+    "\\obj"
+  ],
+  "SelectedNode": "\\CoffeeShop.sln",
+  "PreviewInSolutionExplorer": false
+}

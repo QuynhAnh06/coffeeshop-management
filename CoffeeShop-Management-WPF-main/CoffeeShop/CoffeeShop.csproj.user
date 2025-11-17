@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\AdminView\AddFood.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\Adminstrator.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\CustomerName.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\DetailEmployee.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\DetailHistory.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\EmployeeManagement.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\HistoryPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\PosPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\MenuPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AdminView\StatisticPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\CashierView\CashierView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\StaffView\StaffView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Resources\MainResource.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\AddFood.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\Adminstrator.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\CustomerName.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\DetailEmployee.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\DetailHistory.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\EmployeeManagement.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\HistoryPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\PosPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\StatisticPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\CashierView\CashierView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Style\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Style\UIColor.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AdminView\MenuPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\StaffView\StaffView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

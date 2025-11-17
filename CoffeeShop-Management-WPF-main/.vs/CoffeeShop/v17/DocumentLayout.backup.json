@@ -1,0 +1,688 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/LAPTOP_EOIKDT6R/COFFEESHOP/True/SqlTable/dbo.EMPLOYEE.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\models\\coffeeshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\coffeeshopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\service\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\service\\staffservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\coffeeshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\coffeeshop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\admin\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\admin\\adminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\addfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\addfood.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\service\\statisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\service\\statisticservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\service\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\service\\menuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\service\\billservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\admin\\employeemanangementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\admin\\employeemanangementviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\admin\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\admin\\menuviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\SQLQuery_2 (1).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQLQuery_2 (1).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\historypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\employeemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\employeemanagement.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\menupage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\adminstrator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\adminstrator.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\cashierview\\cashierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\cashierview\\cashierview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\cashier\\cashierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\cashier\\cashierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\staffviewmodel\\staffviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\staffviewmodel\\staffviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\staffview\\staffview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\staffview\\staffview.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\staffview\\staffview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\staffview\\staffview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\customername.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\customername.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\detailhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\detailhistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\resources\\mainresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\resources\\mainresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\admin\\historyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\admin\\historyviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\admin\\pospageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\admin\\pospageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\pospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\pospage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\statisticpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\statisticpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\models\\fullbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\fullbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\models\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\billdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\viewmodel\\admin\\statisticviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\viewmodel\\admin\\statisticviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|d:\\lt win\\coffeeshop-management-wpf-main (2)\\coffeeshop-management-wpf-main\\coffeeshop-management-wpf-main\\coffeeshop\\view\\adminview\\statisticpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C528BE2-B6D5-428C-B0C6-2CF5AB38B2FD}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\view\\adminview\\statisticpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 386,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{75504045-d02f-44e5-bf60-5f60df380e8b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.EMPLOYEE.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/LAPTOP_EOIKDT6R/COFFEESHOP/True/SqlTable/dbo.EMPLOYEE.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/LAPTOP_EOIKDT6R/COFFEESHOP/True/SqlTable/dbo.EMPLOYEE.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-16T05:58:33.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoffeeShop",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\CoffeeShop.csproj",
+              "RelativeDocumentMoniker": "CoffeeShop\\CoffeeShop.csproj",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\CoffeeShop.csproj",
+              "RelativeToolTip": "CoffeeShop\\CoffeeShop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-16T05:21:54.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaffService.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Service\\StaffService.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Service\\StaffService.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Service\\StaffService.cs",
+              "RelativeToolTip": "CoffeeShop\\Service\\StaffService.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwE8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "COFFEESHOPContext.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\COFFEESHOPContext.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\COFFEESHOPContext.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\COFFEESHOPContext.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\COFFEESHOPContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wG0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:19:48.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeShop\\appsettings.json",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\appsettings.json",
+              "RelativeToolTip": "CoffeeShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T02:09:04.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeManangementViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\EmployeeManangementViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\Admin\\EmployeeManangementViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\EmployeeManangementViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\Admin\\EmployeeManangementViewModel.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAwwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\App.xaml.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\App.xaml.cs",
+              "RelativeToolTip": "CoffeeShop\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T02:23:02.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MenuService.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Service\\MenuService.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Service\\MenuService.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Service\\MenuService.cs",
+              "RelativeToolTip": "CoffeeShop\\Service\\MenuService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T14:00:50.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatisticService.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Service\\StatisticService.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Service\\StatisticService.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Service\\StatisticService.cs",
+              "RelativeToolTip": "CoffeeShop\\Service\\StatisticService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddFood.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\AddFood.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\AddFood.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\AddFood.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\AddFood.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Employee.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\Employee.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Employee.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T13:53:46.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BillService.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Service\\BillService.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Service\\BillService.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Service\\BillService.cs",
+              "RelativeToolTip": "CoffeeShop\\Service\\BillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\Login.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\Login.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\Login.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAswIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\Bill.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Bill.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\Bill.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Bill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SQLQuery_2 (1).sql",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\SQLQuery_2 (1).sql",
+              "RelativeDocumentMoniker": "SQLQuery_2 (1).sql",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\SQLQuery_2 (1).sql",
+              "RelativeToolTip": "SQLQuery_2 (1).sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-15T09:22:50.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HistoryPage.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\HistoryPage.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\HistoryPage.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\HistoryPage.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\HistoryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeManagement.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\EmployeeManagement.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\EmployeeManagement.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\EmployeeManagement.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\EmployeeManagement.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PosPage.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\PosPage.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\PosPage.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\PosPage.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\PosPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Type.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\Type.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Type.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\Type.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Type.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FullBill.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\FullBill.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\FullBill.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\FullBill.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\FullBill.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Billdetail.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\Billdetail.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Billdetail.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Models\\Billdetail.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Billdetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuPage.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\MenuPage.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\MenuPage.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\MenuPage.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\MenuPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StaffView.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\StaffView\\StaffView.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\StaffView\\StaffView.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\StaffView\\StaffView.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\StaffView\\StaffView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CashierViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Cashier\\CashierViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\Cashier\\CashierViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Cashier\\CashierViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\Cashier\\CashierViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAxwCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StaffViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\StaffViewModel\\StaffViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\StaffViewModel\\StaffViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\StaffViewModel\\StaffViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\StaffViewModel\\StaffViewModel.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwEIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StatisticPage.xaml.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\StatisticPage.xaml.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\StatisticPage.xaml.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\StatisticPage.xaml.cs",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\StatisticPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StatisticViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\StatisticViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\Admin\\StatisticViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\StatisticViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\Admin\\StatisticViewModel.cs",
+              "ViewState": "AgIAAOIAAAAAAAAAAAAQwPMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "MainResource.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Resources\\MainResource.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Resources\\MainResource.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\Resources\\MainResource.xaml",
+              "RelativeToolTip": "CoffeeShop\\Resources\\MainResource.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PosPageViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\PosPageViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\Admin\\PosPageViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\PosPageViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\Admin\\PosPageViewModel.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAqwAoBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.534Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 14,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\AdminViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\Admin\\AdminViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\AdminViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\Admin\\AdminViewModel.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwEsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MenuViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\MenuViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\Admin\\MenuViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\MenuViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\Admin\\MenuViewModel.cs",
+              "ViewState": "AgIAACUBAAAAAAAAACBjwDcBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StaffView.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\StaffView\\StaffView.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\StaffView\\StaffView.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\StaffView\\StaffView.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\StaffView\\StaffView.xaml",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAIwMcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Adminstrator.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\Adminstrator.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\Adminstrator.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\Adminstrator.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\Adminstrator.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CashierView.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\CashierView\\CashierView.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\CashierView\\CashierView.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\CashierView\\CashierView.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\CashierView\\CashierView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomerName.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\CustomerName.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\CustomerName.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\CustomerName.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\CustomerName.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DetailHistory.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\DetailHistory.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\DetailHistory.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\DetailHistory.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\DetailHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HistoryViewModel.cs",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\HistoryViewModel.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\ViewModel\\Admin\\HistoryViewModel.cs",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\ViewModel\\Admin\\HistoryViewModel.cs",
+              "RelativeToolTip": "CoffeeShop\\ViewModel\\Admin\\HistoryViewModel.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAuwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-15T09:02:19.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StatisticPage.xaml",
+              "DocumentMoniker": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\StatisticPage.xaml",
+              "RelativeDocumentMoniker": "CoffeeShop\\View\\AdminView\\StatisticPage.xaml",
+              "ToolTip": "D:\\LT WIN\\CoffeeShop-Management-WPF-main (2)\\CoffeeShop-Management-WPF-main\\CoffeeShop-Management-WPF-main\\CoffeeShop\\View\\AdminView\\StatisticPage.xaml",
+              "RelativeToolTip": "CoffeeShop\\View\\AdminView\\StatisticPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-15T09:02:19.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -26,7 +26,8 @@ Dự án là một ứng dụng độc lập được xây dựng phục vụ h�
 ## Giao diện minh họa
 
 ### 1. Màn hình đăng nhập
-![Login Interface](./media/login.png)
+![Login Interface](<img width="380" height="228" alt="login" src="https://github.com/user-attachments/assets/278070b8-c67e-4a67-9194-787fc9c0c56c" />
+)
 
 #### Quản lý Menu (Admin)
 ![Menu Interface (Admin)](./media/product.png)

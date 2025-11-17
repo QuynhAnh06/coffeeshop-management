@@ -2,7 +2,7 @@
 
 *Coffee Shop Management Software*
 
-## Giới thiệu
+## 📌 Giới thiệu
 
 Đây là ứng dụng desktop chạy trên Windows, được phát triển bằng **C#**, **WPF**,  **SQL Sever**, nhằm tối ưu hóa toàn bộ quy trình vận hành của một quán cà phê.
 
@@ -90,7 +90,7 @@ Bạn cần cài đặt trước:
 - **Git:** Dùng để clone repository (tùy chọn).
 
 
-### Cài đặt
+### 🛠 Cài đặt
 
 1. Clone dự án về máy của bạn (nếu repository khả dụng):
 
@@ -115,7 +115,7 @@ Bạn cần cài đặt trước:
    - Tạo một database mới trong **SQL Server Management Studio** (ví dụ: `CoffeeShopDB`).
    - Cập nhật chuỗi kết nối (connection string) trong file cấu hình của dự án (ví dụ: `App.config` hoặc `web.config`).
 
-### Cấu hình
+### ⚙️ Cấu hình
 
 1. Cấu hình kết nối cơ sở dữ liệu:
 
@@ -145,7 +145,7 @@ Bạn cần cài đặt trước:
 
 ---
 
-## Chạy dự án
+## ▶️ Chạy dự án
 
 ### Phát triển (Development)
 
@@ -169,22 +169,22 @@ Bạn cần cài đặt trước:
 
 ---
 
-## Sử dụng
+## 📘 Hướng dẫn ử dụng
 
 Khi ứng dụng được khởi chạy, người dùng có thể:
 
 - **Đăng nhập** với vai trò admin, thu ngân hoặc nhân viên bằng thông tin tài khoản tương ứng.
 
-- **Admin** có thể:
+- 👤**Admin** có thể:
   - Quản lý menu (thêm, sửa, xóa sản phẩm).
   - Quản lý tài khoản nhân viên và phân quyền.
   - Xem báo cáo doanh thu và thống kê sản phẩm bán chạy.
 
-- **Thu ngân** có thể:
+- 💁**Thu ngân** có thể:
   - Tạo và xử lý đơn hàng bằng cách thêm sản phẩm vào giỏ.
   - Xuất hóa đơn và xem chi tiết đơn hàng.
 
-- **Nhân viên** có thể:
+-  👨‍🍳**Nhân viên** có thể:
   - Xem các đơn hàng được giao.
   - Xác nhận hoàn thành món hoặc đơn hàng.
 
@@ -192,7 +192,7 @@ Khi ứng dụng được khởi chạy, người dùng có thể:
 
 ---
 
-## Công nghệ sử dụng
+## 🧩 Công nghệ sử dụng
 
 Dự án được xây dựng dựa trên các công nghệ sau:
 
@@ -206,7 +206,7 @@ Dự án được xây dựng dựa trên các công nghệ sau:
 ---
 
 
-## Hướng phát triển trong tương lai
+## 🚀 Hướng phát triển trong tương lai
 
 Để mở rộng và nâng cao trải nghiệm, ứng dụng có thể được phát triển thêm các tính năng sau:
 

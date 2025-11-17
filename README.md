@@ -77,7 +77,7 @@ Dự án là một ứng dụng độc lập được xây dựng phục vụ h�
 
 ---
 
-## Cài đặt
+## 🛠 Cài đặt
 Thực hiện các bước sau để thiết lập và chạy dự án trên máy của bạn.
 
 ### Yêu cầu hệ thống
@@ -90,7 +90,7 @@ Bạn cần cài đặt trước:
 - **Git:** Dùng để clone repository (tùy chọn).
 
 
-### 🛠 Cài đặt
+### Cài đặt
 
 1. Clone dự án về máy của bạn (nếu repository khả dụng):
 

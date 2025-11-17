@@ -2,7 +2,7 @@
 
 *Coffee Shop Management Software*
 
-## 📌 Giới thiệu
+## Giới thiệu
 
 Đây là ứng dụng desktop chạy trên Windows, được phát triển bằng **C#**, **WPF**,  **SQL Sever**, nhằm tối ưu hóa toàn bộ quy trình vận hành của một quán cà phê.
 

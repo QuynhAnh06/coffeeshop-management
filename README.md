@@ -109,7 +109,7 @@ Bạn cần cài đặt trước:
 
    - Trong Visual Studio, vào **Tools > NuGet Package Manager > Manage NuGet Packages for Solution**.
    - Cài đặt các package cần thiết, chẳng hạn như **Entity Framework** để thao tác với cơ sở dữ liệu.
- ```
+     
 4. Thiết lập cơ sở dữ liệu SQL Server:
 
    - Tạo một database mới trong **SQL Server Management Studio** (ví dụ: `CoffeeShopDB`).

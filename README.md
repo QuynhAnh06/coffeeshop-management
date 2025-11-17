@@ -30,7 +30,7 @@ Dự án là một ứng dụng độc lập được xây dựng phục vụ h�
 
 
 #### Quản lý Menu (Admin)
-![Menu Interface (Admin)](./media/product.png)
+[Menu Interface (Admin)](https://github.com/user-attachments/assets/xxxxxxx)
 
 #### Quản lý Nhân viên (Admin)
 ![Menu Interface (Admin)](./media/employee.png)

@@ -80,8 +80,6 @@ Dự án là một ứng dụng độc lập được xây dựng phục vụ h�
 ## Cài đặt
 Thực hiện các bước sau để thiết lập và chạy dự án trên máy của bạn.
 
----
-
 ### Yêu cầu hệ thống
 
 Bạn cần cài đặt trước:
